@@ -1,4 +1,4 @@
 # This file is managed by terraform in the github-infra repo.
 # Changes to this CODEOWNERS file should be done in github-infra.
 
-* @HeadspaceMeditation/identity-and-payments-domain @HeadspaceMeditation/ @HeadspaceMeditation/AutoApprove
+* @HeadspaceMeditation/core-platform @HeadspaceMeditation/product-engineering @HeadspaceMeditation/AutoApprove
